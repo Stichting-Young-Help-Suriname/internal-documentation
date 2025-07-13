@@ -1,9 +1,9 @@
 {
-	"id": "obsidiosaurus",
-	"name": "Obsidiosaurus",
-	"version": "0.3.2",
-	"description": "Connect your vault to Docusaurus",
-	"author": "CIMSTA",
-	"authorUrl": "https://cimsta.com",
+	"id": "yhs-math-game",
+	"name": "YHS Math Game 2.0 Internal Documentation",
+	"version": "0.0.1",
+	"description": "Internal documentation for YHS Math Game 2.0",
+	"author": "YHS",
+	"authorUrl": "https://www.younghelpsuriname.org/",
 	"isDesktopOnly": true
 }
