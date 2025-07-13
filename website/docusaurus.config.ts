@@ -41,7 +41,7 @@ const config: Config = {
       'classic',
       {
         docs: {
-          routeBasePath: '/docs',
+          routeBasePath: '/',
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -93,11 +93,11 @@ const config: Config = {
           items: [
             {
               label: 'Documentation',
-              to: '/docs/docs',
+              to: '/docs/Getting%20Started/Getting%20Started',
             },
             {
               label: 'Guides',
-              to: '/docs/guides',
+              to: '/guides/Project%20Overview/Project%20Overview',
             },
           ],
         },
