@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "61886397533db7c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0411483756a020b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6935c2b5653ec92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/guides/3. Workflows/3. Documentation Workflow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Documentation Workflow"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bdabfc20d76c378",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac4fb5270564a146",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e8ad39292541296",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e5739d8cbc4655d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2d56abbfd15aeee4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff4d67e7d2df5284",
+    "type": "split",
+    "children": [
+      {
+        "id": "1197752de486aeeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36b7801b695529db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Workflows.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Workflows"
+            }
+          },
+          {
+            "id": "38a44f5cb4ad286b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Workflows.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Workflows"
+            }
+          },
+          {
+            "id": "af600da0fb193bb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b1ff0f31db5c6a1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Workflows.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Workflows"
+            }
+          },
+          {
+            "id": "018f239fde453706",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidiosaurus:Obsidiosaurus": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "c6935c2b5653ec92",
+  "lastOpenFiles": [
+    "docs/docs/1. Getting Started/Getting Started.md",
+    "docs/guides/3. Workflows/3. Documentation Workflow.md",
+    "docs/guides/2. Project Overview/Project Overview.md",
+    "docs/guides/1. Getting Started/Getting Started.md",
+    "docs/docs/4. Backend",
+    "docs/docs/3. Mobile Application",
+    "docs/docs/2. Requirements",
+    "docs/docs/1. Getting Started",
+    "docs/docs",
+    "docs/guides/3. Workflows/2. Git.md",
+    "assets/git_workflow.excalidraw.md",
+    "docs/docs/3. Workflows/3. Documentation Workflow.md",
+    "docs/guides/3. Workflows/1. Trello.md",
+    "docs/guides/2. Project Overview/Tech Stack.md",
+    "docs/guides/3. Workflows",
+    "docs/guides/2. Project Overview",
+    "docs/guides/1. Getting Started",
+    "docs/guides",
+    "docs/docs/3. Workflows/2. Git.md",
+    "assets/git_workflow.excalidraw.light.svg",
+    "assets/git_workflow.excalidraw.dark.svg",
+    "assets/trello_workflow.excalidraw.md",
+    "docs/docs/3. Workflows/1. Trello.md",
+    "docs/docs/3. Workflows/1. Trello",
+    "assets/trello_workflow.excalidraw.light.svg",
+    "assets/trello_workflow.excalidraw.dark.svg",
+    "assets/Trello_workflow.md",
+    "assets/Drawing 2025-07-07 21-23-23.excalidraw.md",
+    "assets/Drawing 2025-07-07 21-18-46.excalidraw.md",
+    "assets/Trello Workflow.png",
+    "docs/docs/3..md",
+    "docs/docs/3. Workflows.md",
+    "docs/Workflows.md",
+    "docs/docs/2. Project Overview/Tech Stack.md",
+    "docs/docs/2. Project Overview/Project Overview.md",
+    "docs/Getting Started.md",
+    "docs/docs/Workflows.md",
+    "docs/docs/Tech Stack.md",
+    "docs/docs/Project Overview.md",
+    "docs/docs/Getting Started.md"
+  ]
+}
